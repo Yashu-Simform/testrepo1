@@ -1,1 +1,9 @@
 Undo commit:
+
+o> reset --hard : 
+
+o> reset --soft : Moves to specified commit and changes are in the stagging area
+
+o> reset --merge
+
+o> reset --keep
