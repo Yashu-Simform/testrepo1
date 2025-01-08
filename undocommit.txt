@@ -1,5 +1,7 @@
 Undo commit:
 
+o> reset <no option> : Move to the specified commit and keep the changes ready to be staged
+
 o> reset --hard : 
 
 o> reset --soft : Moves to specified commit and changes are in the stagging area
